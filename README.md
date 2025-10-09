@@ -59,7 +59,7 @@ Check out the live Tableau dashboard here:
 
 
 
-Dashboard screenshot 
+                           Dashboard screenshot 
 
 
 
@@ -67,7 +67,5 @@ Dashboard screenshot
 <img src="Dashboard.png" alt="Dashboard Screenshot" width="800">
 
 
-git add .
-git commit -m "Finalize README and upload dashboard screenshot"
-git push origin main
+
 
