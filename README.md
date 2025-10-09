@@ -49,5 +49,5 @@ o Who cancelled the subscription or expired
 # Dashboard   
 https://public.tableau.com/app/profile/celes.neba/viz/ContentStreamingAnalysis/Dashboard1
 
-<img src="images/dashboard.png" alt="Dashboard Screenshot" width="800">
+
 
