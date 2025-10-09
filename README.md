@@ -55,6 +55,6 @@ Check out the live Tableau dashboard here:
 [View Tableau Dashboard](https://public.tableau.com/app/profile/celes.neba/viz/ContentStreamingAnalysis/Dashboard1)
 
 <!-- Dashboard image at the bottom -->
-<img src="images/dashboard.png" alt="Dashboard Screenshot" width="800">
+<img src="Dashboard/dashboard.png" alt="Dashboard Screenshot" width="800">
 
 
