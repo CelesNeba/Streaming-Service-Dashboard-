@@ -13,7 +13,7 @@ A streaming service wants to analyze the performance of its content across diffe
   user_viewing_data.csv
 </a>
 
-# Problems to solve (KPI)
+# Things to do
 
 - Python: Clean the datasets by fixing incorrect timestamps and removing duplicates.
 - SQL: Set up tables, import the cleaned data, and write queries to analyze genre popularity, top-
