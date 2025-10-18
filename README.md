@@ -36,14 +36,23 @@ subscription trends over time.
 4. Run SQL queries:
 
 o Top-watched genres by region.
+
 o Viewer retention analysis.
+
 o Monthly subscriber growth.
+
 ## Phase 3: Data Visualization with Tableau
+
 1. Connect Tableau to the database.
+
 2. Visualize:
+
 o Viewer engagement across devices.
+
 o Regional genre popularity.
+
 o Subscription trends and churn rates.
+
 o Who cancelled the subscription or expired
 
 # Dashboard   
