@@ -36,13 +36,8 @@ subscription trends over time.
 3. Import cleaned data into the database.
 4. Run SQL queries:
 
-from IPython.display import Image, display
+![Cleaned Content Library Screenshot](https://github.com/CelesNeba/Streaming-Service-Dashboard-/raw/main/Cleaned%20content%20library%20screenshot.JPG)
 
-# GitHub raw URL for the screenshot
-url = "https://github.com/CelesNeba/Streaming-Service-Dashboard-/raw/main/Cleaned%20content%20library%20screenshot.JPG"
-
-# Display the image inline
-display(Image(url=url, width=800))
 
 
 
