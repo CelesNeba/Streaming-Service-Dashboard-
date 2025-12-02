@@ -36,6 +36,10 @@ subscription trends over time.
 3. Import cleaned data into the database.
 4. Run SQL queries:
 
+
+
+
+
 o Top-watched genres by region.
 
 o Viewer retention analysis.
