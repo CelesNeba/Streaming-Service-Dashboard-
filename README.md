@@ -30,11 +30,6 @@ subscription trends over time.
 3. Remove duplicate content entries.
 4. Normalize inconsistent genre labels and region tags.
 5. Save cleaned data to new CSV files.
-## Phase 2: SQL Database Integration
-1. Set up a database.
-2. Create tables for User Viewing Data, Content Library, and Subscription Data.
-3. Import cleaned data into the database.
-4. Run SQL queries:
 
 ### Cleaned content library 
 
@@ -51,11 +46,16 @@ subscription trends over time.
 
 
 
-
 ### Clean user viewing data
 
 ![Streaming User Viewing Screenshot](https://github.com/CelesNeba/Streaming-Service-Dashboard-/raw/main/Streaming%20user_viewing%20screenshot.JPG)
 
+
+## Phase 2: SQL Database Integration
+1. Set up a database.
+2. Create tables for User Viewing Data, Content Library, and Subscription Data.
+3. Import cleaned data into the database.
+4. Run SQL queries:
 
 o Top-watched genres by region.
 
