@@ -43,6 +43,15 @@ subscription trends over time.
 
 
 
+### Clean Subscription Data
+
+
+
+![Subscription Data Screenshot](https://github.com/CelesNeba/Streaming-Service-Dashboard-/raw/main/Subscription%20streaming%20data%20screenshot.JPG)
+
+
+
+
 
 
 o Top-watched genres by region.
