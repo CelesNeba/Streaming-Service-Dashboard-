@@ -36,14 +36,14 @@ subscription trends over time.
 3. Import cleaned data into the database.
 4. Run SQL queries:
 
-### Cleaned Content Library 
+### Cleaned content library 
 
 
 ![Cleaned Content Library Screenshot](https://github.com/CelesNeba/Streaming-Service-Dashboard-/raw/main/Cleaned%20content%20library%20screenshot.JPG)
 
 
 
-### Clean Subscription Data
+### Clean subscription data
 
 
 
@@ -52,6 +52,9 @@ subscription trends over time.
 
 
 
+### Clean user viewing data
+
+![Streaming User Viewing Screenshot](https://github.com/CelesNeba/Streaming-Service-Dashboard-/raw/main/Streaming%20user_viewing%20screenshot.JPG)
 
 
 o Top-watched genres by region.
