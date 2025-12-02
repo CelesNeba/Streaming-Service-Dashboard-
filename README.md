@@ -36,27 +36,6 @@ subscription trends over time.
 3. Import cleaned data into the database.
 4. Run SQL queries:
 
-import matplotlib.pyplot as plt
-import requests
-from PIL import Image
-from io import BytesIO
-
-# Original GitHub URL
-url = "https://github.com/CelesNeba/Streaming-Service-Dashboard-/blob/main/Cleaned%20content%20library%20screenshot.JPG"
-
-# Convert GitHub URL to raw URL
-raw_url = url.replace("blob/", "")
-
-# Fetch the image
-response = requests.get(raw_url)
-img = Image.open(BytesIO(response.content))
-
-# Display the image
-plt.figure(figsize=(10, 8))
-plt.imshow(img)
-plt.axis('off')  # Hide axes
-plt.title("Cleaned Content Library Screenshot")
-plt.show()
 
 
 
