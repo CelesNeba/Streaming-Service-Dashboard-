@@ -36,6 +36,9 @@ subscription trends over time.
 3. Import cleaned data into the database.
 4. Run SQL queries:
 
+### Cleaned Content Library 
+
+
 ![Cleaned Content Library Screenshot](https://github.com/CelesNeba/Streaming-Service-Dashboard-/raw/main/Cleaned%20content%20library%20screenshot.JPG)
 
 
