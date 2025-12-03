@@ -78,6 +78,12 @@ o Monthly subscriber growth.
 
 
 
+### Viewing table
+![Viewing Table](https://raw.githubusercontent.com/CelesNeba/Streaming-Service-Dashboard-/main/viewing%20table.JPG)
+
+
+
+
 
 
 
