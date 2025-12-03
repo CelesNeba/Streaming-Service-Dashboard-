@@ -88,6 +88,11 @@ o Monthly subscriber growth.
 
 
 
+![Subscription Output Screenshot](https://raw.githubusercontent.com/CelesNeba/Streaming-Service-Dashboard-/main/subscription%20output%20screenshot.JPG)
+
+
+
+
 
 
 
