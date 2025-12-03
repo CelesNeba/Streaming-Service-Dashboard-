@@ -108,7 +108,7 @@ o Monthly subscriber growth.
 
 
 
-o Top-watched genres by region.
+o ###Top-watched genres by region.
 
 
 ![Top genre by region MySQL Screenshot](https://raw.githubusercontent.com/CelesNeba/Streaming-Service-Dashboard-/main/Top%20gendre%20by%20region%20mysql%20screenshot.JPG)
@@ -116,7 +116,7 @@ o Top-watched genres by region.
 
 
 
-o Viewer retention analysis.
+o ### Viewer retention analysis.
 
 
 ![Retention Analysis by Month Screenshot](https://raw.githubusercontent.com/CelesNeba/Streaming-Service-Dashboard-/main/MSQL%20retention%20analysis%20by%20month%20screenshot.JPG)
@@ -128,10 +128,11 @@ o Viewer retention analysis.
 
 
 
-o Monthly subscriber growth.
+o ###Monthly subscriber growth.
 
 
 
+![Retention Analysis by Month Screenshot](https://raw.githubusercontent.com/CelesNeba/Streaming-Service-Dashboard-/main/MSQL%20retention%20analysis%20by%20month%20screenshot.JPG)
 
 
 
