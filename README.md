@@ -118,6 +118,16 @@ o Top-watched genres by region.
 
 o Viewer retention analysis.
 
+
+![Retention Analysis by Month Screenshot](https://raw.githubusercontent.com/CelesNeba/Streaming-Service-Dashboard-/main/MSQL%20retention%20analysis%20by%20month%20screenshot.JPG)
+
+
+
+
+
+
+
+
 o Monthly subscriber growth.
 
 
