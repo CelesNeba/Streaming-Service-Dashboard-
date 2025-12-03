@@ -153,7 +153,14 @@ o Subscription trends and churn rates.
 
 o Who cancelled the subscription or expired
 
-# Dashboard   
+### Streaming Service Performance Dashboard 
+
+
+![Streaming Service Dashboard Screenshot](https://raw.githubusercontent.com/CelesNeba/Streaming-Service-Dashboard-/main/Streaming%20service%20dashboard.JPG)
+
+
+
+
 
 
 
