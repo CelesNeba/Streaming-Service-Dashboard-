@@ -108,7 +108,7 @@ o Monthly subscriber growth.
 
 
 
-o ###Top-watched genres by region.
+o Top-watched genres by region.
 
 
 ![Top genre by region MySQL Screenshot](https://raw.githubusercontent.com/CelesNeba/Streaming-Service-Dashboard-/main/Top%20gendre%20by%20region%20mysql%20screenshot.JPG)
@@ -116,7 +116,7 @@ o ###Top-watched genres by region.
 
 
 
-o ### Viewer retention analysis.
+o  Viewer retention analysis.
 
 
 ![Retention Analysis by Month Screenshot](https://raw.githubusercontent.com/CelesNeba/Streaming-Service-Dashboard-/main/MSQL%20retention%20analysis%20by%20month%20screenshot.JPG)
@@ -128,7 +128,7 @@ o ### Viewer retention analysis.
 
 
 
-o ###Monthly subscriber growth.
+o onthly subscriber growth.
 
 
 
@@ -141,7 +141,7 @@ o ###Monthly subscriber growth.
 
 ## Phase 3: Data Visualization with Tableau
 
-1. Connect Tableau to the database.
+1. Connect Power bi to the database.
 
 2. Visualize:
 
@@ -154,25 +154,10 @@ o Subscription trends and churn rates.
 o Who cancelled the subscription or expired
 
 # Dashboard   
-https://public.tableau.com/app/profile/celes.neba/viz/ContentStreamingAnalysis/Dashboard1
-
-# 📊 Dashboard
-
-Check out the live Tableau dashboard here:  
-[View Tableau Dashboard](https://public.tableau.com/app/profile/celes.neba/viz/ContentStreamingAnalysis/Dashboard1)
 
 
 
 
 
-
-                                        Dashboard screenshot 
-
-
-
-
-<img src="Dashboard.png" alt="Dashboard Screenshot" width="800">
-
-
-
+                                       
 
