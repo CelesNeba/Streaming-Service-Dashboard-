@@ -82,6 +82,12 @@ o Monthly subscriber growth.
 ![Viewing Table](https://raw.githubusercontent.com/CelesNeba/Streaming-Service-Dashboard-/main/viewing%20table.JPG)
 
 
+### Data imported into the tables and output
+
+![MySQL Content Library Output](https://raw.githubusercontent.com/CelesNeba/Streaming-Service-Dashboard-/main/my%20sql%20content%20library%20output%20screenshot.JPG)
+
+
+
 
 
 
