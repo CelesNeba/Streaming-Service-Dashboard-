@@ -64,6 +64,9 @@ o Viewer retention analysis.
 o Monthly subscriber growth.
 
 
+### MYSQL Database and tables creation.
+
+![Screenshot](https://raw.githubusercontent.com/CelesNeba/Streaming-Service-Dashboard-/main/database%20and%20content%20table%20screenshot.JPG)
 
 
 
