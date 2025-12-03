@@ -98,11 +98,20 @@ o Monthly subscriber growth.
 
 
 
+
+
+
+
+
+
 ### Mysql  queries:
+
+
 
 o Top-watched genres by region.
 
 
+![Top genre by region MySQL Screenshot](https://raw.githubusercontent.com/CelesNeba/Streaming-Service-Dashboard-/main/Top%20gendre%20by%20region%20mysql%20screenshot.JPG)
 
 
 
