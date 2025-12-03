@@ -98,7 +98,18 @@ o Monthly subscriber growth.
 
 
 
+### Mysql  queries:
 
+o Top-watched genres by region.
+
+
+
+
+
+
+o Viewer retention analysis.
+
+o Monthly subscriber growth.
 
 
 
