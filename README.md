@@ -139,7 +139,7 @@ o onthly subscriber growth.
 
 
 
-## Phase 3: Data Visualization with Tableau
+## Phase 3: Data Visualization with Power BI
 
 1. Connect Power bi to the database.
 
