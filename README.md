@@ -63,6 +63,18 @@ o Viewer retention analysis.
 
 o Monthly subscriber growth.
 
+
+
+
+
+
+
+
+
+
+
+
+
 ## Phase 3: Data Visualization with Tableau
 
 1. Connect Tableau to the database.
