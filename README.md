@@ -159,6 +159,10 @@ o Who cancelled the subscription or expired
 ![Streaming Service Dashboard Screenshot](https://raw.githubusercontent.com/CelesNeba/Streaming-Service-Dashboard-/main/Streaming%20service%20dashboard.JPG)
 
 
+### My recommendation to the streaming service/stakeholders
+
+Based on the provided analysis and dashboard, I recommend that the streaming service/stakeholders prioritize content acquisition and marketing strategies tailored to regional preferences, particularly focusing on the most popular genres in each region to maximize viewer engagement. Simultaneously, they should implement targeted retention programs aimed at subscribers at risk of churn or those with expired subscriptions, potentially offering personalized content recommendations or incentives to encourage renewal and continued viewership. Understanding the device preferences is also key to optimizing the streaming experience across different platforms and regions.
+
 
 
 
